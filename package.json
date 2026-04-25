@@ -2,7 +2,7 @@
   "name": "@drumee/ui-meeting",
   "version": "1.1.31",
   "description": "This wrapper is intended to provide entry point for standalone bundling",
-  "main": "lib-jitsi-meet/dist/umd/lib-jitsi-meet.min.js",
+  "main": "./dist/umd/lib-jitsi-meet.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/drumee/ui-meeting.git"
