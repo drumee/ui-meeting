@@ -140,4 +140,3 @@ out
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
-lib-jitsi-meet/
