@@ -1,0 +1,25 @@
+{
+  "name": "@drumee/ui-meeting",
+  "version": "1.1.30",
+  "description": "This wrapper is intended to provide entry point for standalone bundling",
+  "main": "lib-jitsi-meet/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drumee/ui-meeting.git"
+  },
+  "keywords": [
+    "Video",
+    "Conference",
+    "Jitsi",
+    "Drumee"
+  ],
+  "author": "Somanos Sar <somanos@drumee.com> (https://drumee.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drumee/ui-meeting/issues"
+  },
+  "scripts": {
+    "release": "git push && npm publish --access public && npm version patch"
+  },
+  "homepage": "https://github.com/drumee/ui-meeting#readme"
+}
