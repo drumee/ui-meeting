@@ -1,6 +1,6 @@
 {
   "name": "@drumee/ui-meeting",
-  "version": "1.1.30",
+  "version": "1.1.31",
   "description": "This wrapper is intended to provide entry point for standalone bundling",
   "main": "lib-jitsi-meet/index.js",
   "repository": {
